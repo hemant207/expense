@@ -1,0 +1,35 @@
+.expenss{
+    align-items: center;
+    padding: 1rem;
+}
+
+
+.expenss-data{
+ justify-content: center;
+    padding: 2px;
+    background-color: rgb(55, 47, 47);
+    color: white;
+}
+
+.data-btn button,.data-btn a{
+    padding: 5px;
+    margin: 5px;
+    color: black;
+    border-radius: 5px;
+    border-style: none;
+   font-weight: bolder;
+}
+
+.delete-btn{
+    background-color: rgb(240, 145, 145);
+}   
+
+.edit-btn{
+    background-color: aqua;
+    text-decoration: none;
+    font-size: small;
+}
+
+button:hover{
+    cursor: pointer;
+}

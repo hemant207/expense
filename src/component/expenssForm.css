@@ -1,0 +1,21 @@
+.expenseform{
+    background-color: whitesmoke;
+    margin: 2rem;
+    padding: 1rem;
+    font-size: larger;
+}
+
+input{
+    margin: 1rem;
+    padding: 0.5rem;
+    border-color: burlywood;
+}
+
+.form-btn{
+    background-color: rgb(33, 33, 29);
+    padding: 0.5rem;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: burlywood;
+    color: white;
+}
